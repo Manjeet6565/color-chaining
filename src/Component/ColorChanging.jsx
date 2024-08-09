@@ -19,11 +19,11 @@ function ColorChanging() {
       <Navbar bg="light" variant="light" fixed="top">
         <Container>
           <Navbar.Brand as={NavLink} to="/" aria-current="page">
-            Home page
+            Home page1
           </Navbar.Brand>
           <Nav className="ml-auto">
             <Nav.Link as={NavLink} to="/manjeet">
-              Manjeet
+              manjeet 
             </Nav.Link>
           </Nav>
         </Container>
